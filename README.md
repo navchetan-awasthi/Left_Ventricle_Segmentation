@@ -11,7 +11,9 @@ and FCdDN and compared our models in terms of size, number of parameters as well
 
 ## Contributions :
 We proposed a novel architecture named LVNet which gives a better tradeoff between the number of parameters and the segmentation performance.
+
 A new pipeline is proposed for training the models and also for the post-processing of the results.
+
 Segmentation was done for two different structures and the proposed method gave better performance than other architectures.
 
 
